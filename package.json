@@ -1,0 +1,11 @@
+{
+  "name": "GQLServerProject",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "James Lee <48775473+titanian229@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "devstart": "nodemon index.js"
+  }
+}
